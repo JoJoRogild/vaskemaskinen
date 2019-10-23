@@ -1,5 +1,7 @@
 randomize();
 
+underlig = chose(1,2,3,4);
+
 target = choose(carLevel);
 
 buttonCenterWidht = sprite_width / 2;
